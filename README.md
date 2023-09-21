@@ -28,7 +28,7 @@ Here are some of the data-related projects I've worked on:
 
 - [Project 1: Data Analysis of Swiggy Food Delivery](https://github.com/bhardwaj-priya7/Food-Delivery-Analysis)
 - [Project 2: Data Visualization for Superstore Sales](https://github.com/bhardwaj-priya7/Superstore-Sales-Analysis)
-- [Project 3: Instahyre Job Analysis](https://github.com/bhardwaj-priya7/Instahyre_Job_Anaysis)
+- [Project 3: Instahyre Job Analysis](https://github.com/bhardwaj-priya7/Instahyre_Job_Analysis)
 
 
 ## Future Aspirations
